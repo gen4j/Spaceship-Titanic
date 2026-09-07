@@ -8,7 +8,6 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Kaggle-Spaceship%20Titanic-20BEFF?style=flat-square&logo=kaggle&logoColor=white" alt="Kaggle Competition">
   <img src="https://img.shields.io/badge/Validation%20Accuracy-81.4%25-2ea44f?style=flat-square" alt="Validation Accuracy">
   <img src="https://img.shields.io/badge/Status-Complete-brightgreen?style=flat-square" alt="Status">
   <img src="https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square" alt="License: MIT">
